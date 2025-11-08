@@ -49,7 +49,7 @@ The dashboard empowers Zepto’s supply chain team to:
 ## 🧾 Author
 **Jayashri Santosh Jadhav**  
 📧 [jadhavjayshri030@gmail.com](mailto:jadhavjayshri030@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/jayashri-jadhav-537b712b8)
+🔗 [LinkedIn Profile]https://www.linkedin.com/in/jayashri-jadhav-537b712b8
 
 ---
 
